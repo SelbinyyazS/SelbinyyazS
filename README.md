@@ -16,8 +16,8 @@ Greetings <img src="https://user-images.githubusercontent.com/67052855/167631098
 <h1 align="center">
  
   ![](https://img.shields.io/badge/Email-sultanovaselvi31@gmail.com-informational?style=for-the-badge&logoColor=red&color=yellow?)
-  ![](https://img.shields.io/badge/Twitter-informational?style=for-the-badge&logoColor=blue?color=blue?link=https://twitter.com/Selbinyyaz_S)
-
+  ![](https://img.shields.io/badge/Twitter-@Selbinyyaz__S-informational?style=for-the-badge&logoColor=red?color=blue?logo=Twitter)
+ 
 </h1>
 <!-- Icons -->
 
