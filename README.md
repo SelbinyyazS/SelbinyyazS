@@ -11,17 +11,16 @@ Greetings <img src="https://user-images.githubusercontent.com/67052855/167631098
   - 🌌🪐🛸🚀 Space lover
   - 🍫 Allergic to chocolate
 - 📬 How to reach me:
-<!-- Actual text -->
-
- [![Gmail][1.2]]  sultanovaselvi31@gmail.com or in
- [![Twitter][3.2]][2].
 
 
+<h1 align="center">
+ 
+  ![](https://img.shields.io/badge/Email-sultanovaselvi31@gmail.com-informational?style=for-the-badge&logoColor=red&color=yellow?)
+  ![](https://img.shields.io/badge/Twitter-informational?style=for-the-badge&logoColor=blue?color=blue?link=https://twitter.com/Selbinyyaz_S)
 
+</h1>
 <!-- Icons -->
 
-[1.2]: (https://user-images.githubusercontent.com/67052855/167641802-9c6d4bfd-593c-4f85-adb3-468e2fb33e90.png
-[3.2]: https://user-images.githubusercontent.com/67052855/167642036-1a4ad8f6-2723-4d1e-8092-8bcb19440e95.png
 
 <!-- Links to your social media accounts -->
 
