@@ -3,7 +3,7 @@ Greetings <img src="https://user-images.githubusercontent.com/67052855/167631098
 
 - 👩‍💻 I am Selbinyyaz, a self-learner, and enthusiast in AI 💻
 - 👩‍🎓 High School student, graduating in 2023.
-- 🎉 Technovation Girls Turkmenistan alumni
+- 🎉 Technovation Girls Turkmenistan alumnus
 - 🌍 Striving to make this Planet a better place 🌎🌏
 - 🙃 Fun facts: 
   - 🎧 Favourite musical group: Melodysheep
