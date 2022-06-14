@@ -2,7 +2,8 @@
 Greetings <img src="https://user-images.githubusercontent.com/67052855/167631098-c13e2632-f93a-4f9f-88bb-96e2f90c2664.gif" width="50px">
 
 - 👩‍💻 I am Selbinyyaz, a self-learner, and enthusiast in AI 💻
-- 👩‍🎓 High School student, graduating in 2023.
+- 🎓 High School student, graduating in 2023
+- 👩‍🎓 Princeton AI4ALL Summer Program Student
 - 🎉 Technovation Girls Turkmenistan alumnus
 - 🌍 Striving to make this Planet a better place 🌎🌏
 - 🙃 Fun facts: 
