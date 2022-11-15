@@ -1,7 +1,7 @@
 ![Header](https://user-images.githubusercontent.com/67052855/167625125-78a56e73-5fe4-4315-af8f-e74432b376f5.gif "Header")
 Greetings <img src="https://user-images.githubusercontent.com/67052855/167631098-c13e2632-f93a-4f9f-88bb-96e2f90c2664.gif" width="50px">
 
-- 👩‍💻 I am Selbinyyaz, enthusiast in AI 💻
+- 👩‍💻 I am Selbinyyaz, AI devotee 💻
 - 🎓 High School student, graduating in 2023
 - 👩‍🎓 Princeton AI4ALL Summer Program Student
 - 🎉 Technovation Girls Turkmenistan alumnus
