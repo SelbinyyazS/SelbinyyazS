@@ -4,7 +4,7 @@ Greetings <img src="https://user-images.githubusercontent.com/67052855/167631098
 - 👩‍💻 I am Selbinyyaz, AI devotee 💻
 - 🎓 High School student, graduating in 2023
 - 👩‍🎓 Princeton AI4ALL Summer Program Student
-- 🎉 Technovation Girls Turkmenistan alumnus
+- 🎉 Technovation Girls Turkmenistan alumna
 - 🌍 Striving to make this Planet a better place 🌎🌏
 - 🙃 Fun facts: 
   - 🎧 Favourite musical group: Melodysheep
