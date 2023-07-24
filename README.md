@@ -2,12 +2,12 @@
 Greetings <img src="https://user-images.githubusercontent.com/67052855/167631098-c13e2632-f93a-4f9f-88bb-96e2f90c2664.gif" width="50px">
 
 - 👩‍💻 I am Selbinyyaz, AI devotee 💻
-- 🎓 High School student, graduating in 2023
-- 👩‍🎓 Princeton AI4ALL Summer Program Student
-- 🎉 Technovation Girls Turkmenistan alumna
+- 🎓 Graduated from High School 49 of the Ashgabat city
+- 👩‍🎓 Princeton AI4ALL Summer Program alumna
+- 🎉 Technovation Girls 2023 Global Semi-finalist
 - 🌍 Striving to make this Planet a better place 🌎🌏
 - 🙃 Fun facts: 
-  - 🎧 Favourite musical group: Melodysheep
+  - 🎧 Favourite musical group: Melodysheep, Odesza
   - 🎬 Favourite film: Interstellar
   - 🌌🪐🛸🚀 Space lover
   - 🍫 Allergic to chocolate
