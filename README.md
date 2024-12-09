@@ -4,7 +4,7 @@
   ![](https://img.shields.io/badge/Email-sultanovaselvi31@gmail.com-informational?style=for-the-badge&logoColor=red&color=yellow&logo=Gmail)
   ![](https://img.shields.io/badge/Twitter-@Selbinyyaz__S-informational?style=for-the-badge&logoColor=blue&color=blue&logo=Twitter)
 </h1>
-- 🚀 View my Medium articles 📑 and join Kaggle competitions with me 🏆:
+
 
 <h1 align="center">
   
